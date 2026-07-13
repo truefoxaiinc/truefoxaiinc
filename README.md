@@ -64,46 +64,7 @@ We transform operational challenges into intelligent, maintainable and productio
   </tr>
 </table>
 
-## Technology
 
-| Area | Core technologies |
-| --- | --- |
-| AI and orchestration | OpenAI, Azure OpenAI, LangGraph |
-| Computer vision and inference | PyTorch, OpenCV, YOLO, ONNX, NVIDIA DeepStream, TensorRT, OpenVINO |
-| Backend engineering | Python, FastAPI, Django, Node.js |
-| Web applications | Next.js, React, TypeScript |
-| Data and messaging | PostgreSQL, Redis |
-| Cloud and delivery | Docker, Kubernetes, GitHub Actions, AWS, Microsoft Azure |
-
-### Product engineering stack
-
-| Capability | Technology |
-| --- | --- |
-| Framework | Next.js, React, TypeScript |
-| Styling | Tailwind CSS |
-| Components | shadcn/ui or an internal design system |
-| Server state | TanStack Query |
-| Local state | Zustand |
-| Forms and validation | React Hook Form, Zod |
-| Data tables | TanStack Table |
-| Charts and analytics | Apache ECharts |
-| Live alerts | WebSocket or Server-Sent Events |
-| Live video | WebRTC with HLS fallback |
-| Testing | Vitest, React Testing Library, Playwright |
-| Error reporting | Sentry or OpenTelemetry-compatible tooling |
-
-## How we engineer
-
-| Principle | Commitment |
-| --- | --- |
-| Security by design | Treat security as an architectural requirement from the beginning. |
-| Privacy-first AI | Minimize sensitive data and design explicit controls around its use. |
-| Responsible artificial intelligence | Build systems that can be understood, governed and improved. |
-| Scalable architecture | Design for reliable growth without unnecessary complexity. |
-| Maintainable code | Prefer clear boundaries, focused components and predictable behavior. |
-| Reliable automation | Automate repeatable work with safe failure modes and human oversight. |
-| Observability and auditability | Make important system behavior measurable and traceable. |
-| Clear documentation | Keep operational and engineering knowledge accessible. |
 
 ## Featured work
 
