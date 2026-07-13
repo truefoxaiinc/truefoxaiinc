@@ -105,25 +105,6 @@ We transform operational challenges into intelligent, maintainable and productio
 | Observability and auditability | Make important system behavior measurable and traceable. |
 | Clear documentation | Keep operational and engineering knowledge accessible. |
 
-## Our multidisciplinary team
-
-Truefox AI brings together **26 specialists** across architecture, product engineering, artificial intelligence, video systems, platform reliability, quality and security.
-
-| Team | People |
-| --- | ---: |
-| Principal architect and engineering lead | 1 |
-| Frontend engineers | 3 |
-| Backend engineers | 5 |
-| Edge and video engineers | 3 |
-| Computer-vision and ML engineers | 4 |
-| MLOps and data engineers | 2 |
-| Platform and SRE engineers | 2 |
-| QA automation and SDET engineers | 2 |
-| Security engineer | 1 shared or dedicated |
-| Product manager | 1 |
-| Product designer | 1 |
-| Security-domain expert | 1 |
-
 ## Featured work
 
 Publication-ready Truefox projects will appear here after they meet our standards for documentation, security, licensing, maintenance and presentation.
