@@ -34,8 +34,8 @@ We transform operational challenges into intelligent, maintainable and productio
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>AI agents</h3>
-      Voice agents, customer-support and sales agents, quotation systems, document generation and intelligent business workflows.
+      <h3>LLM and AI agents</h3>
+      Voice agents, customer-support and sales agents, quotation systems, document generation, retrieval workflows and intelligent business automation.
     </td>
     <td width="50%" valign="top">
       <h3>Computer vision</h3>
@@ -52,6 +52,16 @@ We transform operational challenges into intelligent, maintainable and productio
       Web and mobile applications, SaaS products, APIs, cloud platforms and DevOps systems built for business-critical operations.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI and machine learning</h3>
+      Applied machine learning, model integration, inference optimization, data pipelines and production MLOps.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Software and mobile development</h3>
+      Product discovery, architecture, user experience, web platforms, mobile applications, quality automation and lifecycle engineering.
+    </td>
+  </tr>
 </table>
 
 ## Technology
@@ -65,6 +75,23 @@ We transform operational challenges into intelligent, maintainable and productio
 | Data and messaging | PostgreSQL, Redis |
 | Cloud and delivery | Docker, Kubernetes, GitHub Actions, AWS, Microsoft Azure |
 
+### Product engineering stack
+
+| Capability | Technology |
+| --- | --- |
+| Framework | Next.js, React, TypeScript |
+| Styling | Tailwind CSS |
+| Components | shadcn/ui or an internal design system |
+| Server state | TanStack Query |
+| Local state | Zustand |
+| Forms and validation | React Hook Form, Zod |
+| Data tables | TanStack Table |
+| Charts and analytics | Apache ECharts |
+| Live alerts | WebSocket or Server-Sent Events |
+| Live video | WebRTC with HLS fallback |
+| Testing | Vitest, React Testing Library, Playwright |
+| Error reporting | Sentry or OpenTelemetry-compatible tooling |
+
 ## How we engineer
 
 | Principle | Commitment |
@@ -77,6 +104,25 @@ We transform operational challenges into intelligent, maintainable and productio
 | Reliable automation | Automate repeatable work with safe failure modes and human oversight. |
 | Observability and auditability | Make important system behavior measurable and traceable. |
 | Clear documentation | Keep operational and engineering knowledge accessible. |
+
+## Our multidisciplinary team
+
+Truefox AI brings together **26 specialists** across architecture, product engineering, artificial intelligence, video systems, platform reliability, quality and security.
+
+| Team | People |
+| --- | ---: |
+| Principal architect and engineering lead | 1 |
+| Frontend engineers | 3 |
+| Backend engineers | 5 |
+| Edge and video engineers | 3 |
+| Computer-vision and ML engineers | 4 |
+| MLOps and data engineers | 2 |
+| Platform and SRE engineers | 2 |
+| QA automation and SDET engineers | 2 |
+| Security engineer | 1 shared or dedicated |
+| Product manager | 1 |
+| Product designer | 1 |
+| Security-domain expert | 1 |
 
 ## Featured work
 
